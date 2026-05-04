@@ -4,11 +4,8 @@
 
 
 
-<video src="https://github.com/user-attachments/assets/fdcfed7c-b31c-42f6-84b8-2bf78475cdd2" autoplay loop muted playsinline width="100%"></video>
 
-
-
-
+![Flick](C:\Users\johns\Desktop\Clips\Flick\flick.gif)
 
 
 - [https://www.youtube.com/watch?v=QudWR_lOfjk](https://www.youtube.com/watch?v=AV0cCF7f2d0) (Latest) (Volume Muted)
